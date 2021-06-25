@@ -1,0 +1,17 @@
+{
+  "name": "text-to-binary-converter",
+  "version": "1.0.1",
+  "description": "Convert some text to binary easily!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "text-to-binary",
+    "text-to-binary-converter",
+    "binary-converter"
+  ],
+  "author": "Awish",
+  "license": "MIT"
+}
