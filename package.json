@@ -1,6 +1,6 @@
 {
   "name": "text-to-binary-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert some text to binary easily!",
   "main": "index.js",
   "scripts": {
