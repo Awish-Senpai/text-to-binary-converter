@@ -16,6 +16,12 @@ var binary = require('text-to-binary-converter');
 console.log(binary.convert("This text just got converted to Binary."));
 ```
 
+#### In TS:
+```ts
+import binary from "text-to-binary-converter";
+console.log(binary.convert("This text just got converted to Binary."));
+```
+
 #### In Discord.js:
 ```js
 const binary = require('text-to-binary-converter');

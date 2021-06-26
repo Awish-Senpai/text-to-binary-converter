@@ -1,0 +1,1 @@
+export function convert(text: any): string;
